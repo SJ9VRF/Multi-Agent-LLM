@@ -22,18 +22,18 @@ This project implements a multi-document agent using the LlamaIndex framework. I
    ```bash
    git clone https://github.com/yourusername/llamaindex-multi-document-agent.git
    cd llamaindex-multi-document-agent
-```
+   ```
 
 2. Install dependencies::
    ```bash
    pip install -r requirements.txt
-```
+   ```
 
 ## Usage
 To run the agent, navigate to the project directory and execute:
    ```bash
  python main.py
-```
+   ```
 
 ## Configuration
 Modify the src/config.py to set the necessary API keys and parameters.
