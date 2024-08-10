@@ -1,4 +1,3 @@
-## Notebooks
 Explore the `notebooks/` directory for Jupyter notebooks that provide interactive demonstrations and tutorials:
 
 - **QuickStart.ipynb**: Get started with a basic setup and a simple run-through of the agent system.
