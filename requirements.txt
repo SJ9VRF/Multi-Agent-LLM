@@ -1,1 +1,12 @@
+llama-index-core==0.1.0
+llama-index-agent-openai==0.1.0
+llama-index-readers-file==0.1.0
+llama-index-postprocessor-cohere-rerank==0.1.0
+llama-index-llms-openai==0.1.0
+llama-index-embeddings-openai==0.1.0
+unstructured[html]==0.1.0
+tqdm==4.62.0
+requests==2.26.0
+nest_asyncio==1.5.1
+pickle-mixin==1.0.2
 
